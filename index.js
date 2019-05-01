@@ -12,9 +12,9 @@ app.use(
 );
 app.use(parser.json());
 
-// app.use('/', (req, res) => {
-// 	res.redirect('/api/performances/');
-// });
+app.use('/ ', (req, res) => {
+	res.redirect('/api/performances/');
+});
 // app.use('/api/', (req, res) => {
 // 	res.redirect('/api/performances/');
 // });

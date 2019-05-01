@@ -1,0 +1,406 @@
+[
+	{
+		"musicalName": "Into the Woods",
+		"venue": "Ford",
+		"dates": {
+			"start": "Date('2019-03-08')",
+			"end": "Date('2019-05-22')"
+		},
+		"tickets": {
+			"min": 27,
+			"max": 81,
+			"buy": "https://www.fords.org/performances/current-and-upcoming/into-the-woods/#jump_link_3"
+		}
+	},
+	{
+		"musicalName": "The Hunchback of Notre Dame",
+		"venue": "Toby",
+		"dates": {
+			"start": "Date('2019-03-21')",
+			"end": "Date('2019-05-19')"
+		},
+		"tickets": {
+			"min": 63,
+			"max": 66,
+			"buy": "https://www.ticketmaster.com/venue/172479?darklaunch=true&ab=efeat7250v1"
+		}
+	},
+	{
+		"musicalName": "Grand Hotel",
+		"venue": "Sign",
+		"dates": {
+			"start": "Date('2019-04-02')",
+			"end": "Date('2019-05-19')"
+		},
+		"tickets": {
+			"min": 65,
+			"max": 89,
+			"buy": "https://www.sigtheatre.org/events/2018-19/grand-hotel/"
+		}
+	},
+	{
+		"musicalName": "Jubilee",
+		"venue": "ASKT",
+		"dates": {
+			"start": "Date('2019-04-26')",
+			"end": "Date('2019-06-02')"
+		},
+		"tickets": {
+			"min": 73.25,
+			"max": 106.4,
+			"buy": "http://tickets.arenastage.org/events/26742?psn=26742&_ga=2.164445631.1614690051.1556629200-74691139.1556629200"
+		}
+	},
+	{
+		"musicalName": "Spunk",
+		"venue": "Sign",
+		"dates": {
+			"start": "Date('2019-04-30')",
+			"end": "Date('2019-06-23')"
+		},
+		"tickets": {
+			"min": 40,
+			"max": 89,
+			"buy": "https://www.sigtheatre.org/events/2018-19/spunk/"
+		}
+	},
+	{
+		"musicalName": "Pride & Joy: The Marvin Gaye Musical",
+		"venue": "NaTh",
+		"dates": {
+			"start": "Date('2019-05-01')",
+			"end": "Date('2019-05-12')"
+		},
+		"tickets": {
+			"min": 49,
+			"max": 99,
+			"buy": "https://www.etix.com/ticket/e/1009489/pride-joy-19-washington-the-national-theatre-washingtondc?partner_id=240#_ga=2.134067214.1258616873.1556664905-1796398263.1556664905"
+		}
+	},
+	{
+		"musicalName": "FAME, The Musical",
+		"venue": "GALA",
+		"dates": {
+			"start": "Date('2019-05-09')",
+			"end": "Date('2019-06-09')"
+		},
+		"tickets": {
+			"min": 65,
+			"max": 65,
+			"buy": "https://www.boxofficetickets.com/bot/wa/producer?id=1406"
+		}
+	},
+	{
+		"musicalName": "Grease",
+		"venue": "Toby",
+		"dates": {
+			"start": "Date('2019-05-22')",
+			"end": "Date('2019-07-28')"
+		},
+		"tickets": {
+			"buy": "https://www.ticketmaster.com/venue/172479?darklaunch=true&ab=efeat7250v1"
+		}
+	},
+	{
+		"musicalName": "Hello, Dolly!",
+		"venue": "KCOH",
+		"dates": {
+			"start": "Date('2019-06-04')",
+			"end": "Date('2019-07-07')"
+		},
+		"tickets": {
+			"min": 49,
+			"max": 159,
+			"buy": "http://www.kennedy-center.org/calendar/event/TTTSC#tickets"
+		}
+	},
+	{
+		"musicalName": "Falsettos",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2019-06-11')",
+			"end": "Date('2019-06-23')"
+		},
+		"tickets": {
+			"min": 49,
+			"max": 139,
+			"buy": "http://www.kennedy-center.org/calendar/event/TTTSG#tickets"
+		}
+	},
+	{
+		"musicalName": "Blackbeard",
+		"venue": "Sign",
+		"dates": {
+			"start": "Date('2019-06-18')",
+			"end": "Date('2019-07-14')"
+		},
+		"tickets": {
+			"min": 93,
+			"max": 98,
+			"buy": "https://www.sigtheatre.org/events/2018-19/blackbeard/"
+		}
+	},
+	{
+		"musicalName": "The Band's Visit",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2019-07-09')",
+			"end": "Date('2019-08-04')"
+		},
+		"tickets": {
+			"min": 45,
+			"max": 149,
+			"buy": "http://www.kennedy-center.org/calendar/event/TTTSM#tickets"
+		}
+	},
+	{
+		"musicalName": "Disney's Aladdin",
+		"venue": "KCOH",
+		"dates": {
+			"start": "Date('2019-07-18')",
+			"end": "Date('2019-09-07')"
+		},
+		"tickets": {
+			"min": 39,
+			"max": 179,
+			"buy": "http://www.kennedy-center.org/calendar/event/TTTSD#tickets"
+		}
+	},
+	{
+		"musicalName": "Mamma Mia!",
+		"venue": "Toby",
+		"dates": {
+			"start": "Date('2019-08-01')",
+			"end": "Date('2019-09-08')"
+		},
+		"tickets": {
+			"buy": "https://www.ticketmaster.com/venue/172479?darklaunch=true&ab=efeat7250v1"
+		}
+	},
+	{
+		"musicalName": "Dear Evan Hansen",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2019-08-06')",
+			"end": "Date('2019-09-08')"
+		},
+		"tickets": {
+			"min": 79,
+			"max": 175,
+			"buy": "http://www.kennedy-center.org/calendar/event/TTTSE#tickets"
+		}
+	},
+	{
+		"musicalName": "Assassins",
+		"venue": "Sign",
+		"dates": {
+			"start": "Date('2019-08-11')",
+			"end": "Date('2019-09-29')"
+		},
+		"tickets": {
+			"buy": "https://www.sigtheatre.org/events/201920/assassins/"
+		}
+	},
+	{
+		"musicalName": "The Bodyguard: The Musical",
+		"venue": "Toby",
+		"dates": {
+			"start": "Date('2019-09-13')",
+			"end": "Date('2019-11-03')"
+		},
+		"tickets": {
+			"buy": "https://www.ticketmaster.com/venue/172479?darklaunch=true&ab=efeat7250v1"
+		}
+	},
+	{
+		"musicalName": "Cats",
+		"venue": "KCOH",
+		"dates": {
+			"start": "Date('2019-09-17')",
+			"end": "Date('2019-10-06')"
+		},
+		"tickets": {
+			"min": 49,
+			"max": 149,
+			"buy": "On sale: July 16, 2019"
+		}
+	},
+	{
+		"musicalName": "Footloose",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2019-10-09')",
+			"end": "Date('2019-10-13')"
+		},
+		"tickets": {
+			"min": 59,
+			"max": 175,
+			"buy": "On sale: July 16, 2019"
+		}
+	},
+	{
+		"musicalName": "A Chorus Line",
+		"venue": "Sign",
+		"dates": {
+			"start": "Date('2019-10-29')",
+			"end": "Date('2020-01-05')"
+		},
+		"tickets": {
+			"buy": "https://www.sigtheatre.org/events/201920/a-chorus-line/"
+		}
+	},
+	{
+		"musicalName": "Disney's Newsies",
+		"venue": "ASKT",
+		"dates": {
+			"start": "Date('2019-11-01')",
+			"end": "Date('2019-12-22')"
+		}
+	},
+	{
+		"musicalName": "A Christmas Story: The Musical",
+		"venue": "Toby",
+		"dates": {
+			"start": "Date('2019-11-08')",
+			"end": "Date('2020-01-05')"
+		},
+		"tickets": {
+			"buy": "https://www.ticketmaster.com/venue/172479?darklaunch=true&ab=efeat7250v1"
+		}
+	},
+	{
+		"musicalName": "Come From Away",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2019-12-10')",
+			"end": "Date('2020-01-05')"
+		},
+		"tickets": {
+			"min": 49,
+			"max": 149,
+			"buy": "On sale: September 12, 2019"
+		}
+	},
+	{
+		"musicalName": "My Fair Lady",
+		"venue": "KCOH",
+		"dates": {
+			"start": "Date('2019-12-17')",
+			"end": "Date('2020-01-19')"
+		},
+		"tickets": {
+			"min": 39,
+			"max": 159,
+			"buy": "On sale: September 12, 2019"
+		}
+	},
+	{
+		"musicalName": "Kinky Boots",
+		"venue": "Toby",
+		"dates": {
+			"start": "Date('2020-01-10')",
+			"end": "Date('2020-03-22')"
+		},
+		"tickets": {
+			"buy": "https://www.ticketmaster.com/venue/172479?darklaunch=true&ab=efeat7250v1"
+		}
+	},
+	{
+		"musicalName": "Gun & Powder",
+		"venue": "Sign",
+		"dates": {
+			"start": "Date('2020-01-28')",
+			"end": "Date('2020-02-23')"
+		},
+		"tickets": {
+			"buy": "https://www.sigtheatre.org/events/201920/gun-and-powder/"
+		}
+	},
+	{
+		"musicalName": "Next to Normal",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2020-01-29')",
+			"end": "Date('2020-02-02')"
+		},
+		"tickets": {
+			"min": 59,
+			"max": 175,
+			"buy": "On sale: September 12, 2019"
+		}
+	},
+	{
+		"musicalName": "Guys and Dolls",
+		"venue": "Ford",
+		"dates": {
+			"start": "Date('2020-03-13')",
+			"end": "Date('2020-05-20')"
+		},
+		"tickets": {
+			"buy": "On sale: August 28, 2019"
+		}
+	},
+	{
+		"musicalName": "Jesus Christ Superstar",
+		"venue": "KCOH",
+		"dates": {
+			"start": "Date('2020-04-14')",
+			"end": "Date('2020-04-26')"
+		},
+		"tickets": {
+			"min": 39,
+			"max": 159,
+			"buy": "On sale: July 16, 2019"
+		}
+	},
+	{
+		"musicalName": "Bye Bye Birdie",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2020-04-23')",
+			"end": "Date('2020-04-27')"
+		},
+		"tickets": {
+			"min": 59,
+			"max": 175,
+			"buy": "On sale: September 12, 2019"
+		}
+	},
+	{
+		"musicalName": "Hair",
+		"venue": "Sign",
+		"dates": {
+			"start": "Date('2020-05-19')",
+			"end": "Date('2020-07-12')"
+		},
+		"tickets": {
+			"buy": "https://www.sigtheatre.org/events/201920/hair/"
+		}
+	},
+	{
+		"musicalName": "Hamilton",
+		"venue": "KCOH",
+		"dates": {
+			"start": "Date('2020-06-16')",
+			"end": "Date('2020-09-20')"
+		},
+		"tickets": {
+			"min": 99,
+			"max": 550,
+			"buy": "On sale: Spring 2020"
+		}
+	},
+	{
+		"musicalName": "Once on This Island",
+		"venue": "KCET",
+		"dates": {
+			"start": "Date('2020-06-23')",
+			"end": "Date('2020-07-12')"
+		},
+		"tickets": {
+			"min": 45,
+			"max": 129,
+			"buy": "On sale: February 25, 2020"
+		}
+	}
+]

@@ -14,7 +14,7 @@ app.use(parser.json());
 
 app.use('/api/musicals/', musicalRouter);
 app.use('/api/venues/', venueRouter);
-app.use('api/performances/', performanceRouter);
+app.use('/api/performances/', performanceRouter);
 
 app.listen(4000, () => {
 	console.log('do you hear the people sing on 4000?');

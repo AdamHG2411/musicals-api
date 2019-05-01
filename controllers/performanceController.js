@@ -14,19 +14,19 @@ module.exports = {
 		});
 	},
 	findByMusical: (req, res) => {
-		Performance.findOne({ musicalName: req.params.musicalName }).then((performance) => {
+		Performance.find({ musicalName: req.params.musical }).then((performance) => {
 			res.json(performance);
 		});
 	},
 	findByVenue: (req, res) => {
-		Performance.findOne({ venue: req.params.venue }).then((performance) => {
-			res.json(performance);
+		Performance.find({ venue: req.params.venue }).then((performances) => {
+			res.json(performances);
 		});
 	},
 	create: (req, res) => {
 		Performance.create(req.body).then((performance) => {
 			Musical.findOne({ name: performance.musicalName }).then((musical) => {
-				Venue.findOne({ name: performance.venue }).then((venue) => {
+				Venue.findOne({ code: performance.venue }).then((venue) => {
 					performance.musicalId = musical._id;
 					performance.venueId = venue._id;
 					performance.save();

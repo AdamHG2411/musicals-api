@@ -16,6 +16,8 @@ app.use('/api/musicals/', musicalRouter);
 app.use('/api/venues/', venueRouter);
 app.use('/api/performances/', performanceRouter);
 
-app.listen(4000, () => {
-	console.log('do you hear the people sing on 4000?');
+app.set('port', process.env.PORT || 4000);
+
+app.listen(app.get('port'), () => {
+	console.log(`do you hear the people sing on ${app.get('port')}?`);
 });

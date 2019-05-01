@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "This is a musicals API I'm developing for my second project in General Assembly's Software Engineering Immersive.",
 	"main": "index.js",
+	"engines": {
+		"node": "v11.12.0"
+	},
 	"dependencies": {
 		"body-parser": "^1.19.0",
 		"express": "^4.16.4",

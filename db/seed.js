@@ -15,9 +15,9 @@ Musical.find({}).deleteMany(() => {
 						Performance.find({}).then((performances) => {
 							performances.forEach((thisPerformance) => {
 								Musical.findOne({ name: thisPerformance.musicalName }).then((musical) => {
-									Performance.update(thisPerformance, { musicalId: musical._id }).then(() => {
+									Performance.updateOne(thisPerformance, { musicalId: musical._id }).then(() => {
 										Venue.findOne({ code: thisPerformance.venue }).then((venue) => {
-											Performance.update(thisPerformance, { venueId: venue._id }).then(() => {
+											Performance.updateOne(thisPerformance, { venueId: venue._id }).then(() => {
 												thisPerformance.save();
 											});
 										});

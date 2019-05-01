@@ -25,8 +25,8 @@ module.exports = {
 	},
 	create: (req, res) => {
 		Performance.create(req.body).then((performance) => {
-			Musical.find({ name: performance.musicalName }).then((musical) => {
-				Venue.find({ name: performance.venue }).then((venue) => {
+			Musical.findOne({ name: performance.musicalName }).then((musical) => {
+				Venue.findOne({ name: performance.venue }).then((venue) => {
 					performance.musicalId = musical._id;
 					performance.venueId = venue._id;
 					performance.save();
@@ -36,7 +36,7 @@ module.exports = {
 		});
 	},
 	update: (req, res) => {
-		Performance.update({ _id: req.params.id }, req.body).then((performance) => {
+		Performance.updateOne({ _id: req.params.id }, req.body).then((performance) => {
 			res.json(performance);
 		});
 	},

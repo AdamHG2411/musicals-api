@@ -6,7 +6,7 @@ const Musical = new Schema({
 	premiereYear: Date,
 	synopsis: String,
 	spotifyURL: String,
-	awards: [ String ]
+	awards: Array
 });
 
 module.exports = mongoose.model('Musical', Musical);

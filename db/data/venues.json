@@ -1,29 +1,52 @@
 [
 	{
-		"name": "Kennedy Center - Concert Hall"
+		"name": "Kennedy Center - Concert Hall",
+		"code": "KCCH",
+		"url": "http://www.kennedy-center.org/"
 	},
 	{
-		"name": "Kennedy Center - Opera House"
+		"name": "Kennedy Center - Opera House",
+		"code": "KCOH",
+		"url": "http://www.kennedy-center.org/"
 	},
 	{
-		"name": "Kennedy Center - Eisenhower Theater"
+		"name": "Kennedy Center - Eisenhower Theater",
+		"code": "KCET",
+		"url": "http://www.kennedy-center.org/"
 	},
 	{
-		"name": "The National Theatre"
+		"name": "The National Theatre",
+		"code": "NaTh",
+		"url": "https://thenationaldc.org/"
 	},
 	{
-		"name": "Ford's Theatre"
+		"name": "Ford's Theatre",
+		"code": "Ford",
+		"url": "https://www.fords.org/"
 	},
 	{
-		"name": "Arena Stage - Fichandler Stage"
+		"name": "Arena Stage - Fichandler Stage",
+		"code": "ASFS",
+		"url": "https://www.arenastage.org/"
 	},
 	{
-		"name": "Arena Stage - Kreeger Theatre"
+		"name": "Arena Stage - Kreeger Theatre",
+		"code": "ASKT",
+		"url": "https://www.arenastage.org/"
 	},
 	{
-		"name": "GALA Hispanic Theatre"
+		"name": "GALA Hispanic Theatre",
+		"code": "GALA",
+		"url": "http://en.galatheatre.org/"
 	},
 	{
-		"name": "Toby's Dinner Theatre"
+		"name": "Toby's Dinner Theatre",
+		"code": "Toby",
+		"url": "https://tobysdinnertheatre.com/"
+	},
+	{
+		"name": "Signature Theatre",
+		"code": "Sign",
+		"url": "https://www.sigtheatre.org/"
 	}
 ]

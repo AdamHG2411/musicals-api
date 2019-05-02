@@ -1,5 +1,6 @@
 const express = require('express');
 const parser = require('body-parser');
+const cors = require('cors');
 const app = express();
 const musicalRouter = require('./routes/musicalRouter.js');
 const performanceRouter = require('./routes/performanceRouter.js');

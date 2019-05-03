@@ -3,10 +3,10 @@ const Schema = mongoose.Schema;
 
 const Musical = new Schema({
 	name: String,
-	premiereYear: Date,
+	premiereYear: Number,
 	synopsis: String,
 	spotifyURL: String,
-	awards: Array
+	awards: [ String ]
 });
 
 module.exports = mongoose.model('Musical', Musical);

@@ -29,6 +29,7 @@ module.exports = {
 				Venue.findOne({ code: performance.venue }).then((venue) => {
 					performance.musicalId = musical._id;
 					performance.venueId = venue._id;
+					performance.venueName = venue.name;
 					performance.save();
 					res.json(performance);
 				});

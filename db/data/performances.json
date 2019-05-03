@@ -1,7 +1,7 @@
 [
 	{
 		"musicalName": "Into the Woods",
-		"venue": "Ford",
+		"venueCode": "Ford",
 		"dates": {
 			"start": "2019-03-08",
 			"end": "2019-05-22"
@@ -14,7 +14,7 @@
 	},
 	{
 		"musicalName": "The Hunchback of Notre Dame",
-		"venue": "Toby",
+		"venueCode": "Toby",
 		"dates": {
 			"start": "2019-03-21",
 			"end": "2019-05-19"
@@ -27,7 +27,7 @@
 	},
 	{
 		"musicalName": "Grand Hotel",
-		"venue": "Sign",
+		"venueCode": "Sign",
 		"dates": {
 			"start": "2019-04-02",
 			"end": "2019-05-19"
@@ -40,7 +40,7 @@
 	},
 	{
 		"musicalName": "Jubilee",
-		"venue": "ASKT",
+		"venueCode": "ASKT",
 		"dates": {
 			"start": "2019-04-26",
 			"end": "2019-06-02"
@@ -53,7 +53,7 @@
 	},
 	{
 		"musicalName": "Spunk",
-		"venue": "Sign",
+		"venueCode": "Sign",
 		"dates": {
 			"start": "2019-04-30",
 			"end": "2019-06-23"
@@ -66,7 +66,7 @@
 	},
 	{
 		"musicalName": "Pride & Joy: The Marvin Gaye Musical",
-		"venue": "NaTh",
+		"venueCode": "NaTh",
 		"dates": {
 			"start": "2019-05-01",
 			"end": "2019-05-12"
@@ -79,7 +79,7 @@
 	},
 	{
 		"musicalName": "FAME, The Musical",
-		"venue": "GALA",
+		"venueCode": "GALA",
 		"dates": {
 			"start": "2019-05-09",
 			"end": "2019-06-09"
@@ -92,7 +92,7 @@
 	},
 	{
 		"musicalName": "Grease",
-		"venue": "Toby",
+		"venueCode": "Toby",
 		"dates": {
 			"start": "2019-05-22",
 			"end": "2019-07-28"
@@ -103,7 +103,7 @@
 	},
 	{
 		"musicalName": "Hello, Dolly!",
-		"venue": "KCOH",
+		"venueCode": "KCOH",
 		"dates": {
 			"start": "2019-06-04",
 			"end": "2019-07-07"
@@ -116,7 +116,7 @@
 	},
 	{
 		"musicalName": "Falsettos",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2019-06-11",
 			"end": "2019-06-23"
@@ -129,7 +129,7 @@
 	},
 	{
 		"musicalName": "Blackbeard",
-		"venue": "Sign",
+		"venueCode": "Sign",
 		"dates": {
 			"start": "2019-06-18",
 			"end": "2019-07-14"
@@ -142,7 +142,7 @@
 	},
 	{
 		"musicalName": "The Band's Visit",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2019-07-09",
 			"end": "2019-08-04"
@@ -155,7 +155,7 @@
 	},
 	{
 		"musicalName": "Disney's Aladdin",
-		"venue": "KCOH",
+		"venueCode": "KCOH",
 		"dates": {
 			"start": "2019-07-18",
 			"end": "2019-09-07"
@@ -168,7 +168,7 @@
 	},
 	{
 		"musicalName": "Mamma Mia!",
-		"venue": "Toby",
+		"venueCode": "Toby",
 		"dates": {
 			"start": "2019-08-01",
 			"end": "2019-09-08"
@@ -179,7 +179,7 @@
 	},
 	{
 		"musicalName": "Dear Evan Hansen",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2019-08-06",
 			"end": "2019-09-08"
@@ -192,7 +192,7 @@
 	},
 	{
 		"musicalName": "Assassins",
-		"venue": "Sign",
+		"venueCode": "Sign",
 		"dates": {
 			"start": "2019-08-11",
 			"end": "2019-09-29"
@@ -203,7 +203,7 @@
 	},
 	{
 		"musicalName": "The Bodyguard: The Musical",
-		"venue": "Toby",
+		"venueCode": "Toby",
 		"dates": {
 			"start": "2019-09-13",
 			"end": "2019-11-03"
@@ -214,7 +214,7 @@
 	},
 	{
 		"musicalName": "Cats",
-		"venue": "KCOH",
+		"venueCode": "KCOH",
 		"dates": {
 			"start": "2019-09-17",
 			"end": "2019-10-06"
@@ -227,7 +227,7 @@
 	},
 	{
 		"musicalName": "Footloose",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2019-10-09",
 			"end": "2019-10-13"
@@ -240,7 +240,7 @@
 	},
 	{
 		"musicalName": "A Chorus Line",
-		"venue": "Sign",
+		"venueCode": "Sign",
 		"dates": {
 			"start": "2019-10-29",
 			"end": "2020-01-05"
@@ -251,7 +251,7 @@
 	},
 	{
 		"musicalName": "Disney's Newsies",
-		"venue": "ASKT",
+		"venueCode": "ASKT",
 		"dates": {
 			"start": "2019-11-01",
 			"end": "2019-12-22"
@@ -259,7 +259,7 @@
 	},
 	{
 		"musicalName": "A Christmas Story: The Musical",
-		"venue": "Toby",
+		"venueCode": "Toby",
 		"dates": {
 			"start": "2019-11-08",
 			"end": "2020-01-05"
@@ -270,7 +270,7 @@
 	},
 	{
 		"musicalName": "Come From Away",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2019-12-10",
 			"end": "2020-01-05"
@@ -283,7 +283,7 @@
 	},
 	{
 		"musicalName": "My Fair Lady",
-		"venue": "KCOH",
+		"venueCode": "KCOH",
 		"dates": {
 			"start": "2019-12-17",
 			"end": "2020-01-19"
@@ -296,7 +296,7 @@
 	},
 	{
 		"musicalName": "Kinky Boots",
-		"venue": "Toby",
+		"venueCode": "Toby",
 		"dates": {
 			"start": "2020-01-10",
 			"end": "2020-03-22"
@@ -307,7 +307,7 @@
 	},
 	{
 		"musicalName": "Gun & Powder",
-		"venue": "Sign",
+		"venueCode": "Sign",
 		"dates": {
 			"start": "2020-01-28",
 			"end": "2020-02-23"
@@ -318,7 +318,7 @@
 	},
 	{
 		"musicalName": "Next to Normal",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2020-01-29",
 			"end": "2020-02-02"
@@ -331,7 +331,7 @@
 	},
 	{
 		"musicalName": "Guys and Dolls",
-		"venue": "Ford",
+		"venueCode": "Ford",
 		"dates": {
 			"start": "2020-03-13",
 			"end": "2020-05-20"
@@ -342,7 +342,7 @@
 	},
 	{
 		"musicalName": "Jesus Christ Superstar",
-		"venue": "KCOH",
+		"venueCode": "KCOH",
 		"dates": {
 			"start": "2020-04-14",
 			"end": "2020-04-26"
@@ -355,7 +355,7 @@
 	},
 	{
 		"musicalName": "Bye Bye Birdie",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2020-04-23",
 			"end": "2020-04-27"
@@ -368,7 +368,7 @@
 	},
 	{
 		"musicalName": "Hair",
-		"venue": "Sign",
+		"venueCode": "Sign",
 		"dates": {
 			"start": "2020-05-19",
 			"end": "2020-07-12"
@@ -379,7 +379,7 @@
 	},
 	{
 		"musicalName": "Hamilton",
-		"venue": "KCOH",
+		"venueCode": "KCOH",
 		"dates": {
 			"start": "2020-06-16",
 			"end": "2020-09-20"
@@ -392,7 +392,7 @@
 	},
 	{
 		"musicalName": "Once on This Island",
-		"venue": "KCET",
+		"venueCode": "KCET",
 		"dates": {
 			"start": "2020-06-23",
 			"end": "2020-07-12"

@@ -4,7 +4,8 @@ const Schema = mongoose.Schema;
 const Performance = new Schema({
 	musicalName: String,
 	musicalId: String,
-	venue: String,
+	venueName: String,
+	venueCode: String,
 	venueId: String,
 	dates: {
 		start: Date,

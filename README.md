@@ -75,7 +75,7 @@ DELETE: https://musicals-api.herokuapp.com/api/performances/id/:id
 
 (replace :id with the ObjectId of the particular performance you want to delete)
 
-##Musicals
+## Musicals
 
 The Musical schema has the following structure:
 
@@ -123,7 +123,7 @@ DELETE: https://musicals-api.herokuapp.com/api/musicals/id/:id
 
 (replace :id with the ObjectId of the particular musical you want to delete)
 
-##Venues
+## Venues
 
 The Venue schema follows this structure:
 

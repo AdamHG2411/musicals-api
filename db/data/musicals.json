@@ -1,101 +1,195 @@
 [
 	{
-		"name": "A Chorus Line"
+		"name": "A Chorus Line",
+		"premiereYear": 1975,
+		"composer": "Marvin Hamlisch/Edward Kleban",
+		"spotifyURL": "0MT1xGLpV7CVXyenhxd4t3"
 	},
 	{
-		"name": "A Christmas Story: The Musical"
+		"name": "A Christmas Story: The Musical",
+		"premiereYear": 2009,
+		"composer": "Benj Pasek/Justin Paul",
+		"spotifyURL": "5EqGgwZJnoygasXJl60qn1"
 	},
 	{
-		"name": "Assassins"
+		"name": "Assassins",
+		"premiereYear": 1990,
+		"composer": "Stephen Sondheim",
+		"spotifyURL": "5ifTOl4KhC5KDQIN6HalFJ"
 	},
 	{
-		"name": "Blackbeard"
+		"name": "Blackbeard",
+		"premiereYear": 2019,
+		"composer": "Dana Rowe/John Dempsey"
 	},
 	{
-		"name": "Bye Bye Birdie"
+		"name": "Bye Bye Birdie",
+		"premiereYear": 1960,
+		"composer": "Charles Strouse/Lee Adams",
+		"spotifyURL": "1ptKCzFT9TClH4UtxGAl5R"
 	},
 	{
-		"name": "Cats"
+		"name": "Cats",
+		"premiereYear": 1981,
+		"composer": "Andrew Lloyd Webber",
+		"spotifyURL": "7dIID5jd8V3fR2NXkonyD3"
 	},
 	{
-		"name": "Come From Away"
+		"name": "Come From Away",
+		"premiereYear": 2013,
+		"composer": "Irene Sankoff/David Hein",
+		"spotifyURL": "6SisHkIpxo4JN5kRcBEv9Z"
 	},
 	{
-		"name": "Dear Evan Hansen"
+		"name": "Dear Evan Hansen",
+		"premiereYear": 2015,
+		"composer": "Benj Pasek/Justin Paul",
+		"spotifyURL": "0LhDyJXelg31FKLW5GDcKi"
 	},
 	{
-		"name": "Disney's Aladdin"
+		"name": "Disney's Aladdin",
+		"premiereYear": 2011,
+		"composer": "Alan Menken/Howard Ashman/Tim Rice/Chad Beguelin",
+		"spotifyURL": "5wqx6PBsow0KIQrnu9xd6c"
 	},
 	{
-		"name": "Disney's Newsies"
+		"name": "Disney's Newsies",
+		"premiereYear": 2011,
+		"composer": "Alan Menken/Jack Feldman",
+		"spotifyURL": "2eeKB2KD7VwbWtcovqLzpS"
 	},
 	{
-		"name": "Falsettos"
+		"name": "Falsettos",
+		"premiereYear": 1992,
+		"composer": "William Finn",
+		"spotifyURL": "4mCM4pXPU1JSsTNNEslE4v"
 	},
 	{
-		"name": "FAME, The Musical"
+		"name": "FAME, The Musical",
+		"premiereYear": 1988,
+		"composer": "Steve Margoshes/Jacques Levy",
+		"spotifyURL": "14gMbJOX7EfnuCmfyvbUMl"
 	},
 	{
-		"name": "Footloose"
+		"name": "Footloose",
+		"premiereYear": 1998,
+		"composer": "Tom Snow/Dean Pitchford",
+		"spotifyURL": "2ZeVcSvFqTunjpbIGFIjVh"
 	},
 	{
-		"name": "Grand Hotel"
+		"name": "Grand Hotel",
+		"premiereYear": 1989,
+		"composer": "Robert Wright/George Forrest/Maury Yeston",
+		"spotifyURL": "0hone2kiR9hYgIPIT51rQy"
 	},
 	{
-		"name": "Grease"
+		"name": "Grease",
+		"premiereYear": 1971,
+		"composer": "Jim Jacobs/Warren Casey",
+		"spotifyURL": "5jxfJ5orMpRKB1EJ9UO8al"
 	},
 	{
-		"name": "Gun & Powder"
+		"name": "Gun & Powder",
+		"premiereYear": 2019,
+		"composer": "Angelica Cheri"
 	},
 	{
-		"name": "Guys and Dolls"
+		"name": "Guys and Dolls",
+		"premiereYear": 1950,
+		"composer": "Frank Loesser",
+		"spotifyURL": "7aVLz778h7j4o82KcAD2Ic"
 	},
 	{
-		"name": "Hair"
+		"name": "Hair",
+		"premiereYear": 1967,
+		"composer": "Galt MacDermot/Gerome Ragni/James Rado",
+		"spotifyURL": "7FInI6k1i8JlgvMpMpk8zP"
 	},
 	{
-		"name": "Hamilton"
+		"name": "Hamilton",
+		"premiereYear": 2015,
+		"composer": "Lin-Manuel Miranda",
+		"spotifyURL": "1kCHru7uhxBUdzkm4gzRQc"
 	},
 	{
-		"name": "Hello, Dolly!"
+		"name": "Hello, Dolly!",
+		"premiereYear": 1964,
+		"composer": "Jerry Herman",
+		"spotifyURL": "2cDK1Eg3LONqzmRas1PpkM"
 	},
 	{
-		"name": "Into the Woods"
+		"name": "Into the Woods",
+		"premiereYear": 1986,
+		"composer": "Stephen Sondheim",
+		"spotifyURL": "27nr57gugCPjxQIFFz2uK3"
 	},
 	{
-		"name": "Jesus Christ Superstar"
+		"name": "Jesus Christ Superstar",
+		"premiereYear": 1970,
+		"composer": "Andrew Lloyd Webber/Tim Rice",
+		"spotifyURL": "2utlHy2K3j4lpaVauM1aUU"
 	},
 	{
-		"name": "Jubilee"
+		"name": "Jubilee",
+		"premiereYear": 2019,
+		"composer": "Tazewell Thompson"
 	},
 	{
-		"name": "Kinky Boots"
+		"name": "Kinky Boots",
+		"premiereYear": 2012,
+		"composer": "Cyndi Lauper",
+		"spotifyURL": "0VfNZpKsykX5WPuyEdBilR"
 	},
 	{
-		"name": "Mamma Mia!"
+		"name": "Mamma Mia!",
+		"premiereYear": 1999,
+		"composer": "Benny Andersson/Bjorn Ulvaeus",
+		"spotifyURL": "6LFLGHU6Rw2sAMrjax6f5t"
 	},
 	{
-		"name": "My Fair Lady"
+		"name": "My Fair Lady",
+		"premiereYear": 1956,
+		"composer": "Frederick Loewe/Alan Jay Lerner",
+		"spotifyURL": "479BaTHQAGKuw4ojw7SpQE"
 	},
 	{
-		"name": "Next to Normal"
+		"name": "Next to Normal",
+		"premiereYear": 2008,
+		"composer": "Tom Kitt/Brian Yorkey",
+		"spotifyURL": "0HLCM1PkLwDz5NLr5Kl4a4"
 	},
 	{
-		"name": "Once on This Island"
+		"name": "Once on This Island",
+		"premiereYear": 1990,
+		"composer": "Stephen Flaherty/Lynn Ahrens",
+		"spotifyURL": "2MVDpxjf45RaNVGW5uv1Hb"
 	},
 	{
-		"name": "Pride & Joy: The Marvin Gaye Musical"
+		"name": "Pride & Joy: The Marvin Gaye Musical",
+		"premiereYear": 2019,
+		"composer": "Unclear"
 	},
 	{
-		"name": "Spunk"
+		"name": "Spunk",
+		"premiereYear": 2019,
+		"composer": "George C. Wolfe"
 	},
 	{
-		"name": "The Band's Visit"
+		"name": "The Band's Visit",
+		"premiereYear": 2016,
+		"composer": "David Yazbek",
+		"spotifyURL": "2RLYvCLS2sE77j6Vl8FVfc"
 	},
 	{
-		"name": "The Bodyguard: The Musical"
+		"name": "The Bodyguard: The Musical",
+		"premiereYear": 2012,
+		"composer": "Whitney Houston",
+		"spotifyURL": "4E85kmdjM4kbr6o71i9g1x"
 	},
 	{
-		"name": "The Hunchback of Notre Dame"
+		"name": "The Hunchback of Notre Dame",
+		"premiereYear": 1999,
+		"composer": "Alan Menken/Stephen Schwartz",
+		"spotifyURL": "2rFRK6qKdQHNAaCcHjRzav"
 	}
 ]

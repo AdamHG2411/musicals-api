@@ -2,46 +2,91 @@
 	{
 		"name": "Kennedy Center - Opera House",
 		"code": "KCOH",
-		"url": "http://www.kennedy-center.org/"
+		"url": "http://www.kennedy-center.org/",
+		"location": {
+			"street": "2700 F Street, NW",
+			"city": "Washington, DC",
+			"nearestMetro": "Foggy Bottom"
+		}
 	},
 	{
 		"name": "Kennedy Center - Eisenhower Theater",
 		"code": "KCET",
-		"url": "http://www.kennedy-center.org/"
+		"url": "http://www.kennedy-center.org/",
+		"location": {
+			"street": "2700 F Street, NW",
+			"city": "Washington, DC",
+			"nearestMetro": "Foggy Bottom"
+		}
 	},
 	{
 		"name": "The National Theatre",
 		"code": "NaTh",
-		"url": "https://thenationaldc.org/"
+		"url": "https://thenationaldc.org/",
+		"location": {
+			"street": "1321 Pennsylvania Avenue, NW",
+			"city": "Washington, DC",
+			"nearestMetro": "Metro Center/Federal Triangle"
+		}
 	},
 	{
 		"name": "Ford's Theatre",
 		"code": "Ford",
-		"url": "https://www.fords.org/"
+		"url": "https://www.fords.org/",
+		"location": {
+			"street": "511 10th St, NW",
+			"city": "Washington, DC",
+			"nearestMetro": "Metro Center/Gallery Place"
+		}
 	},
 	{
 		"name": "Arena Stage - Fichandler Stage",
 		"code": "ASFS",
-		"url": "https://www.arenastage.org/"
+		"url": "https://www.arenastage.org/",
+		"location": {
+			"street": "1101 Sixth Street, SW",
+			"city": "Washington, DC",
+			"nearestMetro": "Waterfront"
+		}
 	},
 	{
 		"name": "Arena Stage - Kreeger Theatre",
 		"code": "ASKT",
-		"url": "https://www.arenastage.org/"
+		"url": "https://www.arenastage.org/",
+		"location": {
+			"street": "1101 Sixth Street, SW",
+			"city": "Washington, DC",
+			"nearestMetro": "Waterfront"
+		}
 	},
 	{
 		"name": "GALA Hispanic Theatre",
 		"code": "GALA",
-		"url": "http://en.galatheatre.org/"
+		"url": "http://en.galatheatre.org/",
+		"location": {
+			"street": "3333 14th Street, NW",
+			"city": "Washington, DC",
+			"nearestMetro": "Columbia Heights"
+		}
 	},
 	{
 		"name": "Toby's Dinner Theatre",
 		"code": "Toby",
-		"url": "https://tobysdinnertheatre.com/"
+		"url": "https://tobysdinnertheatre.com/",
+		"location": {
+			"street": "5900 Symphony Woods road",
+			"city": "Columbia, MD",
+			"nearestMetro": "N/A"
+		}
 	},
 	{
 		"name": "Signature Theatre",
 		"code": "Sign",
-		"url": "https://www.sigtheatre.org/"
+		"url": "https://www.sigtheatre.org/",
+		"location": {
+			"street": "4200 Campbell Ave.",
+			"city": "Arlington, VA",
+			"nearestMetro": "Pentagon City"
+		}
 	}
 ]

@@ -19,7 +19,7 @@ module.exports = {
 		});
 	},
 	findByVenue: (req, res) => {
-		Performance.find({ venue: req.params.venue }).then((performances) => {
+		Performance.find({ venueCode: req.params.venue }).then((performances) => {
 			res.json(performances);
 		});
 	},

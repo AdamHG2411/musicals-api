@@ -36,9 +36,11 @@ It's worth noting that the Dates are stored as ISODates and that the musicalId, 
 This collection can be queried through any of the following requests:
 
 **Retrieve all performances from database:**
+
 GET: https://musicals-api.herokuapp.com/api/performances/
 
 **Retrieve one performance using its ObjectID:**
+
 GET: https://musicals-api.herokuapp.com/api/performances/id/:id
 (replace :id with the particular ID you're searching for)
 

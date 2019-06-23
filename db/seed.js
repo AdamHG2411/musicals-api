@@ -20,12 +20,19 @@ Musical.find({}).deleteMany(() => {
 							performances.forEach((thisPerformance) => {
 								//find matching musical and connect musicalId
 								Musical.findOne({ name: thisPerformance.musicalName }).then((musical) => {
-									Performance.updateOne(thisPerformance, { musicalId: musical._id }).then(() => {
+									Performance.updateOne(thisPerformance, {
+										musicalId: musical._id,
+										musicalYear: musical.premiereYear,
+										musicalComposer: musical.composer,
+										musicalSpotify: musical.spotifyURL
+									}).then(() => {
 										//find matching venue and connect venueId
 										Venue.findOne({ code: thisPerformance.venueCode }).then((venue) => {
 											Performance.updateOne(thisPerformance, {
 												venueId: venue._id,
-												venueName: venue.name
+												venueName: venue.name,
+												venueAddress: venue.location.street,
+												venueCity: venue.location.city
 											}).then(() => {
 												//Save this performance
 												thisPerformance.save();

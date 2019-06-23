@@ -7,8 +7,6 @@
 			"end": "2019-05-22"
 		},
 		"tickets": {
-			"min": 27,
-			"max": 81,
 			"buy": "https://www.fords.org/performances/current-and-upcoming/into-the-woods/#jump_link_3"
 		}
 	},
@@ -20,8 +18,6 @@
 			"end": "2019-05-19"
 		},
 		"tickets": {
-			"min": 63,
-			"max": 66,
 			"buy": "https://www.ticketmaster.com/venue/172479?darklaunch=true&ab=efeat7250v1"
 		}
 	},
@@ -33,8 +29,6 @@
 			"end": "2019-05-19"
 		},
 		"tickets": {
-			"min": 65,
-			"max": 89,
 			"buy": "https://www.sigtheatre.org/events/2018-19/grand-hotel/"
 		}
 	},
@@ -46,8 +40,6 @@
 			"end": "2019-06-02"
 		},
 		"tickets": {
-			"min": 73.25,
-			"max": 106.4,
 			"buy": "http://tickets.arenastage.org/events/26742?psn=26742&_ga=2.164445631.1614690051.1556629200-74691139.1556629200"
 		}
 	},
@@ -59,8 +51,6 @@
 			"end": "2019-06-23"
 		},
 		"tickets": {
-			"min": 40,
-			"max": 89,
 			"buy": "https://www.sigtheatre.org/events/2018-19/spunk/"
 		}
 	},
@@ -72,8 +62,6 @@
 			"end": "2019-05-12"
 		},
 		"tickets": {
-			"min": 49,
-			"max": 99,
 			"buy": "https://www.etix.com/ticket/e/1009489/pride-joy-19-washington-the-national-theatre-washingtondc?partner_id=240#_ga=2.134067214.1258616873.1556664905-1796398263.1556664905"
 		}
 	},
@@ -85,8 +73,6 @@
 			"end": "2019-06-09"
 		},
 		"tickets": {
-			"min": 65,
-			"max": 65,
 			"buy": "https://www.boxofficetickets.com/bot/wa/producer?id=1406"
 		}
 	},
@@ -109,8 +95,6 @@
 			"end": "2019-07-07"
 		},
 		"tickets": {
-			"min": 49,
-			"max": 159,
 			"buy": "http://www.kennedy-center.org/calendar/event/TTTSC#tickets"
 		}
 	},
@@ -122,8 +106,6 @@
 			"end": "2019-06-23"
 		},
 		"tickets": {
-			"min": 49,
-			"max": 139,
 			"buy": "http://www.kennedy-center.org/calendar/event/TTTSG#tickets"
 		}
 	},
@@ -135,8 +117,6 @@
 			"end": "2019-07-14"
 		},
 		"tickets": {
-			"min": 93,
-			"max": 98,
 			"buy": "https://www.sigtheatre.org/events/2018-19/blackbeard/"
 		}
 	},
@@ -148,8 +128,6 @@
 			"end": "2019-08-04"
 		},
 		"tickets": {
-			"min": 45,
-			"max": 149,
 			"buy": "http://www.kennedy-center.org/calendar/event/TTTSM#tickets"
 		}
 	},
@@ -161,8 +139,6 @@
 			"end": "2019-09-07"
 		},
 		"tickets": {
-			"min": 39,
-			"max": 179,
 			"buy": "http://www.kennedy-center.org/calendar/event/TTTSD#tickets"
 		}
 	},
@@ -185,8 +161,6 @@
 			"end": "2019-09-08"
 		},
 		"tickets": {
-			"min": 79,
-			"max": 175,
 			"buy": "http://www.kennedy-center.org/calendar/event/TTTSE#tickets"
 		}
 	},
@@ -220,9 +194,7 @@
 			"end": "2019-10-06"
 		},
 		"tickets": {
-			"min": 49,
-			"max": 149,
-			"buy": "On sale: July 16, 2019"
+			"buy": "http://www.kennedy-center.org/calendar/event/TTTSF"
 		}
 	},
 	{
@@ -233,9 +205,7 @@
 			"end": "2019-10-13"
 		},
 		"tickets": {
-			"min": 59,
-			"max": 175,
-			"buy": "On sale: July 16, 2019"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSK"
 		}
 	},
 	{
@@ -279,9 +249,7 @@
 			"end": "2020-01-05"
 		},
 		"tickets": {
-			"min": 49,
-			"max": 149,
-			"buy": "On sale: September 12, 2019"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSC"
 		}
 	},
 	{
@@ -292,9 +260,7 @@
 			"end": "2020-01-19"
 		},
 		"tickets": {
-			"min": 39,
-			"max": 159,
-			"buy": "On sale: September 12, 2019"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSD"
 		}
 	},
 	{
@@ -327,9 +293,7 @@
 			"end": "2020-02-02"
 		},
 		"tickets": {
-			"min": 59,
-			"max": 175,
-			"buy": "On sale: September 12, 2019"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSL"
 		}
 	},
 	{
@@ -340,7 +304,7 @@
 			"end": "2020-05-20"
 		},
 		"tickets": {
-			"buy": "On sale: August 28, 2019"
+			"buy": "https://www.fords.org/performances/current-and-upcoming/guys-and-dolls/"
 		}
 	},
 	{
@@ -351,9 +315,7 @@
 			"end": "2020-04-26"
 		},
 		"tickets": {
-			"min": 39,
-			"max": 159,
-			"buy": "On sale: July 16, 2019"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSG"
 		}
 	},
 	{
@@ -364,9 +326,7 @@
 			"end": "2020-04-27"
 		},
 		"tickets": {
-			"min": 59,
-			"max": 175,
-			"buy": "On sale: September 12, 2019"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSM"
 		}
 	},
 	{
@@ -388,9 +348,7 @@
 			"end": "2020-09-20"
 		},
 		"tickets": {
-			"min": 99,
-			"max": 550,
-			"buy": "On sale: Spring 2020"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSE"
 		}
 	},
 	{
@@ -401,9 +359,7 @@
 			"end": "2020-07-12"
 		},
 		"tickets": {
-			"min": 45,
-			"max": 129,
-			"buy": "On sale: February 25, 2020"
+			"buy": "http://www.kennedy-center.org/calendar/event/TUTSH"
 		}
 	}
 ]

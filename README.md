@@ -2,7 +2,7 @@
 
 This is a musicals API I created for my second project in General Assembly's Software Engineering Immersive. All data was collected from my own knowledge, the websites for each venue, and/or Wikipedia.
 
-The database was created on MongoDB and hosted on Atlas. The API was created with Node.js, Express, and Mongoose, and it has been deployed to [Heroku](http://musicals-api.herokuapp.com/api/performances). The API has a RESTful design and full CRUD functionality.
+The database was created on MongoDB and hosted on Atlas. The API was created with Node.js, Express, and Mongoose, and it has been deployed to [Heroku](http://musicals-api.herokuapp.com/api/performances).
 
 Please note that this repository/readme is specifically for the backend API I created. While you can query the data where it's hosted on Heroku, it isn't very accessible to non-developers. I've also created a front-end specifically for listing upcoming performances in DC. It's still in progress, but it's available [here](http://dc-musicals.herokuapp.com).
 
